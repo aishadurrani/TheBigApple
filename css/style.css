@@ -1,0 +1,178 @@
+
+body {
+	background-image: url("../images/nyc2.jpg");
+	/*background-size: 1400px;
+	padding-bottom: 2px;*/
+	/*background-position: center;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	
+
+}
+
+
+
+#quiz {
+	float: left;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-right: 100px;
+	border-spacing: 100px;
+	font-size: 25px;
+}
+
+
+
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 70px;
+/*	text-align: left;*/
+
+}
+
+#next {
+	float: left;
+	margin-top: 250px;
+	color: black;
+
+}
+
+#prev {
+	float: left;
+	margin-top: 250px;
+	color: black;
+	
+}
+
+#start {
+	float: left;
+	margin-top: 250px;
+	color: black;
+
+}
+
+footer {
+	text-align: left;
+	font-weight: bold;
+	/*padding-top: 625px;*/
+	color: gold;
+	position: fixed;
+	left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+
+	body {
+		background-image: url("../images/nyc1.jpg");
+		 
+		/*background-size: 320px;
+		padding-bottom: 2px;*/
+		background-position: center;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	background-size: cover;
+
+
+	}
+
+	h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 50px;
+/*	text-align: left;*/
+
+}
+
+	#quiz {
+	float: left;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	border-right: 100px;
+	border-spacing: 80px;
+	font-size: 25px;
+}
+
+
+	#next {
+		float: left;
+		
+		color: black;
+		
+		
+
+}
+
+	#prev {
+		float: left;
+		
+		color: black;
+		
+
+	
+}
+
+	#start {
+		float: left;
+		
+		color: black;
+		
+			
+
+}
+
+   .btn {
+		float: left;
+		color: black;
+	   
+
+}
+
+
+	footer {
+		text-align: left;
+		font-weight: bold;
+		/*padding-top: 625px;*/
+		color: gold;
+		position: fixed;
+		left: 0;
+   	    bottom: 0;
+    	height: 40px;
+    	width: 100%;
+    	text-align: center;
+}
+
+	
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+
