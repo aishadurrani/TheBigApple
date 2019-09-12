@@ -4,9 +4,9 @@ body {
 	/*background-size: 1400px;
 	padding-bottom: 2px;*/
 	/*background-position: center;*/
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
 	
 
 }
@@ -62,10 +62,10 @@ footer {
 	color: gold;
 	position: fixed;
 	left: 0;
-    bottom: 0;
-    height: 40px;
-    width: 100%;
-    text-align: center;
+        bottom: 0;
+        height: 40px;
+        width: 100%;
+        text-align: center;
 }
 
 
@@ -80,9 +80,9 @@ footer {
 		/*background-size: 320px;
 		padding-bottom: 2px;*/
 		background-position: center;
-    	background-repeat: no-repeat;
-    	background-attachment: fixed;
-    	background-size: cover;
+    	        background-repeat: no-repeat;
+    	        background-attachment: fixed;
+    	        background-size: cover;
 
 
 	}
@@ -99,7 +99,7 @@ footer {
 	float: left;
 	font-weight: bold;
 	text-align: left;
-	padding-top: 20px;
+	padding-top: 10px;
 	padding-bottom: 0px;
 	border-right: 100px;
 	border-spacing: 80px;
@@ -109,7 +109,7 @@ footer {
 
 	#next {
 		float: left;
-		
+		margin-top: 50px;		
 		color: black;
 		
 		
@@ -118,7 +118,7 @@ footer {
 
 	#prev {
 		float: left;
-		
+		margin-top: 50px;		
 		color: black;
 		
 
@@ -127,7 +127,7 @@ footer {
 
 	#start {
 		float: left;
-		
+		margin-top: 50px;		
 		color: black;
 		
 			
@@ -136,7 +136,8 @@ footer {
 
    .btn {
 		float: left;
-		color: black;
+	   			
+	   	color: black;
 	   
 
 }
@@ -149,10 +150,10 @@ footer {
 		color: gold;
 		position: fixed;
 		left: 0;
-   	    bottom: 0;
-    	height: 40px;
-    	width: 100%;
-    	text-align: center;
+   	        bottom: 0;
+    	        height: 40px;
+    	        width: 100%;
+    	        text-align: center;
 }
 
 	
