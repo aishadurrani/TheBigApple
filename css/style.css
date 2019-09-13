@@ -1,12 +1,11 @@
-
 body {
 	background-image: url("../images/nyc2.jpg");
 	/*background-size: 1400px;
 	padding-bottom: 2px;*/
 	/*background-position: center;*/
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 	
 
 }
@@ -17,11 +16,12 @@ body {
 	float: left;
 	font-weight: bold;
 	text-align: left;
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 50px;
 	border-right: 100px;
 	border-spacing: 100px;
 	font-size: 25px;
+	text-shadow: -1px -1px 0 #DAA520, 1px -1px 0 #DAA520, -1px 1px 0 #DAA520, 1px 1px 0 #DAA520;
 }
 
 
@@ -31,26 +31,27 @@ h1 {
 	font-weight: bold;
 	font-size: 70px;
 /*	text-align: left;*/
+	text-shadow: -1px -1px 0 #DAA520, 1px -1px 0 #DAA520, -1px 1px 0 #DAA520, 1px 1px 0 #DAA520;
 
 }
 
 #next {
 	float: left;
-	margin-top: 250px;
+	margin-top: 300px;
 	color: black;
 
 }
 
 #prev {
 	float: left;
-	margin-top: 250px;
+	margin-top: 300px;
 	color: black;
 	
 }
 
 #start {
 	float: left;
-	margin-top: 250px;
+	margin-top: 300px;
 	color: black;
 
 }
@@ -62,10 +63,11 @@ footer {
 	color: gold;
 	position: fixed;
 	left: 0;
-        bottom: 0;
-        height: 40px;
-        width: 100%;
-        text-align: center;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 
@@ -80,9 +82,9 @@ footer {
 		/*background-size: 320px;
 		padding-bottom: 2px;*/
 		background-position: center;
-    	        background-repeat: no-repeat;
-    	        background-attachment: fixed;
-    	        background-size: cover;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	background-size: cover;
 
 
 	}
@@ -91,7 +93,7 @@ footer {
 	color: black;
 	font-weight: bold;
 	font-size: 50px;
-/*	text-align: left;*/
+	text-shadow: -1px -1px 0 #DAA520, 1px -1px 0 #DAA520, -1px 1px 0 #DAA520, 1px 1px 0 #DAA520;
 
 }
 
@@ -99,11 +101,12 @@ footer {
 	float: left;
 	font-weight: bold;
 	text-align: left;
-	padding-top: 10px;
+	padding-top: 70px;
 	padding-bottom: 0px;
 	border-right: 100px;
 	border-spacing: 80px;
 	font-size: 25px;
+	text-shadow: -1px -1px 0 #DAA520, 1px -1px 0 #DAA520, -1px 1px 0 #DAA520, 1px 1px 0 #DAA520;
 }
 
 
@@ -150,10 +153,11 @@ footer {
 		color: gold;
 		position: fixed;
 		left: 0;
-   	        bottom: 0;
-    	        height: 40px;
-    	        width: 100%;
-    	        text-align: center;
+   	    bottom: 0;
+    	height: 40px;
+    	width: 100%;
+    	text-align: center;
+    	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 	
@@ -175,5 +179,3 @@ footer {
 @media only screen  and (min-width : 1824px) {
 /* Styles */
 }
-
-
